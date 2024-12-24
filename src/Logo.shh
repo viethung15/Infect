@@ -22,6 +22,6 @@ X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X
                        @#%.,@  @#%,.@              
                         @#%., @#%,.@
 '|lolcat -p 1.0
-echo -e "$red               ▶Developer: misha korzhik◀$rc"
-echo -e "$red            ⫸ https://github.com/mishakorzik ⫷$rc"
+echo -e "$red               ▶Developer: Nguyen Bui Viet Hung◀$rc"
+echo -e "$red              ⫸ https://facebook.com/viethungs1 ⫷$rc"
 echo 
